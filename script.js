@@ -385,6 +385,7 @@ document.addEventListener("DOMContentLoaded", () => {
           { name: "afm" },
           { name: "fwm" },
           { name: "lm" },
+          { name: "prompt" },
           { name: "deepfake" },
           { name: "devin" },
           { name: "sora" },
